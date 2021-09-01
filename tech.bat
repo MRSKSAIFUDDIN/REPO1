@@ -1,2 +1,5 @@
 echo "Bat file executed"
-echo date
+date
+
+cls
+echo "Clear the content here"
