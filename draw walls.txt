@@ -1,0 +1,1 @@
+Config Tool is a program that can be used to find IP address of devices on the network, initialise cameras, modify IP addresses and more.
